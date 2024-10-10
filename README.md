@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello! I'm a Trainee Unity Developer
 
-<!--
-**Vitaliy-Yashchuk/Vitaliy-Yashchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate developer with basic knowledge of Unity and a variety of programming skills. I strive to learn, grow, and contribute to exciting projects in the tech industry.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Game Development:**
+  - Good in Unity and C#
+  - Experience with C++: basic OOP and some design patterns
+- **Database Management:**
+  - Knowledge of MySQL for backend data handling
+- **Embedded Systems:**
+  - Familiar with Arduino for hardware projects
+- **Version Control:**
+  - Comfortable using Git for version control and collaboration
+
+## 🌱 Currently Learning
+
+I’m continuously expanding my skills in:
+
+- Advanced Unity features
+- Game design principles
+- Networking for multiplayer games
+
+## 🤝 Let's Connect
+
+I'm excited about the opportunity to collaborate with others and contribute to innovative projects. If you’re interested in working together or have any questions, feel free to reach out!
+
+- Email: [yashchukvitalik203@gmail.com](mailto:yashchukvitalik203@gmail.com)
+- LinkedIn: [Vitaliy Yashchuk](https://www.linkedin.com/in/vitalik-yashchuk-45a403143/)
+
+Thank you for visiting my profile! 🚀
