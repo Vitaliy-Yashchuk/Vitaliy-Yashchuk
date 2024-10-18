@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate developer with basic knowledge 
 
 - **Game Development:**
   - Good in Unity and C#
-  - Experience with C++: basic OOP and some design patterns
+  - Experience with C++: OOP and some design patterns
 - **Database Management:**
   - Knowledge of MySQL for backend data handling
 - **Embedded Systems:**
