@@ -1,4 +1,4 @@
-# 👋 Hello! I'm a Trainee Unity Developer
+# 👋 Hello! I'm a Junior Unity Developer
 
 Welcome to my GitHub profile! I’m a passionate developer with basic knowledge of Unity and a variety of programming skills. I strive to learn, grow, and contribute to exciting projects in the tech industry.
 
