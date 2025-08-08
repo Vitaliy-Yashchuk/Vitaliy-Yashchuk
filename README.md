@@ -27,6 +27,6 @@ I’m continuously expanding my skills in:
 I'm excited about the opportunity to collaborate with others and contribute to innovative projects. If you’re interested in working together or have any questions, feel free to reach out!
 
 - Email: [yashchukvitalik203@gmail.com](mailto:yashchukvitalik203@gmail.com)
-- LinkedIn: [Vitaliy Yashchuk]([https://www.linkedin.com/in/vitalik-yashchuk-45a403143/](https://www.linkedin.com/in/vitalii-yashchuk-45a403143/))
+- LinkedIn: [Vitaliy Yashchuk](https://www.linkedin.com/in/vitalik-yashchuk-45a403143/)
 
 Thank you for visiting my profile! 🚀
